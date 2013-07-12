@@ -414,6 +414,8 @@
     <string name="title_clock_doubleclick">Clock double click actions</string>
     <string name="title_clock_longclick">Clock long click actions</string>
     <string name="title_clock_shortclick">Clock short click actions</string>
+    <string name="enable_clock_date">Show date</string>
+    <string name="enable_clock_date_summary">Shows current date centered</string>
 
     <!-- Tile background style and text color -->
     <string name="tile_background_style_title">Tile background style</string>
